@@ -1,0 +1,19 @@
+/* Arka plan rengki belirlendi ve textler ortaya çekildli */
+body {
+  background-color:#FFEFD5;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+strong {
+  color: rgb(88, 165, 146);
+}
+h1 {
+  text-align: center;
+}
+div {
+  color:rgb(228, 118, 39);
+  font-size: 23px;
+  text-align: center;
+  padding: 2px;
+  margin: 2px;
+}
